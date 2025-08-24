@@ -69,7 +69,8 @@ const Hero = () => {
           
           <div className="h-20 md:h-24 flex items-center justify-center mb-4">
             <h2 className="text-2xl md:text-4xl font-semibold text-gray-300 font-mono">
-              <span className="text-cyan-400">const</span> role = <span className="text-yellow-400">'{texts[currentText]}'</span>
+              <span className="text-cyan-400">const</span> role =
+              <span className="text-yellow-400">&apos;{texts[currentText]}&apos;</span>
             </h2>
           </div>
         </div>

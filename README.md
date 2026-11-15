@@ -2,6 +2,12 @@
 
 A modern, responsive portfolio website built with Next.js 15 and Tailwind CSS, showcasing the professional experience and skills of Muqadas Urooj, a Software Engineer and Full Stack Developer.
 
+<img width="1364" height="633" alt="image" src="https://github.com/user-attachments/assets/10e29b18-071e-4fcc-94af-a4b58ccd448c" />
+
+<img width="1275" height="630" alt="image" src="https://github.com/user-attachments/assets/52019599-fb95-4668-9b49-04fe92804205" />
+
+<img width="1126" height="584" alt="image" src="https://github.com/user-attachments/assets/ae090e2c-5b6a-412a-b3dc-fb1ced03810d" />
+
 ## 🚀 Features
 
 - **Modern Design**: Clean, developer-focused UI with dark theme
